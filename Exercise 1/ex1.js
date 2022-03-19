@@ -4,3 +4,5 @@ let planet = prompt("enter a planet: ");
     
     console.log(`i want to travel to: ${planet} `);
 })();
+
+
